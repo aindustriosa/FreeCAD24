@@ -56,24 +56,36 @@ https://youtu.be/nmTyFVzHlzo
 
 **Obxectivo**: Aprender a unir e ensamblar varias pezas para crear deseños máis
 complexos.
+
 **Temas a ver**:
+
 • Tipos de combinacións: unir, restar e atopar a área en común de dúas pezas.
+
 • Organización de obxectos no espazo de traballo.
+
 • Uso do módulo de ensamblaxe para xuntar varias pezas.
+
 **Práctica**: Crear unha caixa e unha tapa, e aprender a ensamblalas.
-O que se aprenderá: Saberán como unir pezas en FreeCAD, permitíndolles crear
-modelos completos formados por varias partes.
+
+O que se aprenderá: Saberán como unir pezas en FreeCAD, permitíndolles crear modelos completos formados por varias partes.
 
 ### Módulo 4: Modelado 3D mediante bosquexos
 
 **Obxectivo**: Aprender a crear bosquexos e transformalos en modelos 3D.
+
 **Temas a ver**:
+
 • Bosquexos (Sketches): Debuxo de liñas, círculos e outras figuras.
+
 • Extrusión: Transformar un bosquexo nun obxecto 3D.
+
 • Movementos básicos: rotar, mover e escalar as formas.
+
 • Importar bosquexos
+
 **Práctica**: Crear un cubo e unha esfera e practicar como movelas e modificalas. (por definir)
-O que se aprenderá: Aprenderán a facer figuras simples en 3D con bosquexos e a manexalas, establecendo unha base sólida para traballar no deseño 3D.
+
+**O que se aprenderá**: Aprenderán a facer figuras simples en 3D con bosquexos e a manexalas, establecendo unha base sólida para traballar no deseño 3D.
 
 https://youtu.be/eXRnwWvNWPI
 
