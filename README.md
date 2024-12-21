@@ -83,24 +83,39 @@ https://youtu.be/eXRnwWvNWPI
 
 **Obxectivo**: Consolidar os coñecementos adquiridos no curso e gañar soltura no uso das ferramentas de FreeCAD mediante a creación de varias pezas prácticas.
 **Temas a ver**:
-Repaso de ferramentas clave: Sketcher, operacións booleanas, ensamblaxe e exportación.
-Aplicación de deseño paramétrico: Axustar e modificar parámetros en pezas.
+
+**Repaso de ferramentas clave**: Sketcher, operacións booleanas, ensamblaxe e exportación.
+
+**Aplicación de deseño paramétrico**: Axustar e modificar parámetros en pezas.
+
 **Exercicios prácticos**:
+
 • Peza 1: Crear unha engrenaxe simple utilizando ferramentas de bosquexo e extrusión.
+
 • Peza 2: Deseñar unha abrazadera axustable, usando dimensións paramétricas para cambiar o seu tamaño.
+
 • Peza 3: Crear un soporte en ángulo (por exemplo, para o teléfono) usando operacións booleanas.
+
 • Peza 4: Deseño dunha tapa e base que encaixen entre si, aplicando técnicas de ensamblaxe.
+
 • Peza 5: Un llavero personalizado para reforzar as habilidades de exportación para impresión 3D.
-O que se aprenderá: Os estudantes terán a oportunidade de repetir e perfeccionar cada etapa do deseño en FreeCAD, gañando maior confianza e rapidez no uso das ferramentas. Isto permitiralles enfrontarse a novos deseños de forma autónoma e eficiente.
+
+**O que se aprenderá**: Os estudantes terán a oportunidade de repetir e perfeccionar cada etapa do deseño en FreeCAD, gañando maior confianza e rapidez no uso das ferramentas. Isto permitiralles enfrontarse a novos deseños de forma autónoma e eficiente.
 
 ### Módulo 6: Preparación para Impresión 3D
 
 **Obxectivo**: Preparar o modelo para imprimilo en 3D ou levalo a un lugar de impresión.
+
 **Temas a ver**:
+
 • Exportar o arquivo en formatos como STL e OBJ (os máis usados en impresión 3D).
+
 • Crear un pdf co noso modelo para imprimir. Alzado, planta e perfil.
+
 • Revisar o modelo nun programa especial para impresión 3D, como Cura.
-Práctica: Crear un modelo sinxelo, exportalo en formato STL e revisalo nun programa de impresión 3D.
+
+**Práctica**: Crear un modelo sinxelo, exportalo en formato STL e revisalo nun programa de impresión 3D.
+
 **O que aprenderán**: Saberán como preparar os seus deseños para levalos a unha impresora 3D, listos para seren impresos de maneira efectiva.
 
 https://youtu.be/kcHCAthQ4go
